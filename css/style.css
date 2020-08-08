@@ -198,6 +198,6 @@ body {
         height: 350px;
     }
     .footer{
-        width: 200px;
+        max-width: 200px;
     }
 }
