@@ -199,5 +199,6 @@ body {
     }
     .footer{
         max-width: 200px;
+        align-items: center;
     }
 }
